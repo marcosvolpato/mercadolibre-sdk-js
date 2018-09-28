@@ -1,0 +1,23 @@
+{
+    "name": "mercadolibre-sdk-js",
+    "version": "0.0.1",
+    "author": "Marcos Vinicius Volpato <volpatomv@gmail.com>",
+    "description": "Mercadolibre SDK 1.0.4 module",
+    "main": "lib/mercadolibre-1.0.4.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/marcosvolpato/mercadolibre-sdk-js.git"
+    },
+    "keywords": [
+      "api",
+      "mercadolibre",
+      "meli",
+      "sdk",
+      "integration"
+    ],
+    "dependencies": {},
+    "engine": {
+      "node": ">=0.6"
+    },
+    "license": "MIT"
+  }
